@@ -1,0 +1,26 @@
+body {
+    background: url("https://images.unsplash.com/photo-1505312926838-645f295a20e1?ixlib=rb-0.3.5&s=2eed8a40b45bcddae76ac38abbcb38b8&auto=format&fit=crop&w=1834&q=80") no-repeat;
+    background-size: cover;
+    margin-top: 30px !important;
+}
+
+.my-headers {
+    background: url("https://c1.staticflickr.com/5/4015/4334237247_08af133b4b_b.jpg") no-repeat;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 992px) {
+    .my-titles {
+        padding-left: 48px !important;
+        visibility: hidden;
+    }
+
+    h1 {
+        font-size: 2.2em !important;
+        /*margin-top: 200px !important;*/
+    }
+
+    h3 {
+        font-size: 1.7em !important;
+    }
+}
