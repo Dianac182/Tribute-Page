@@ -1,3 +1,4 @@
+/*
 $(function () {
 
     const myNewHeaders = $('.new-headers');
@@ -9,4 +10,4 @@ $(function () {
             myNewHeaders.insertAfter('.my-headers');
         }
     });
-});
+});*/
